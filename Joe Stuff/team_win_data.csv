@@ -1,0 +1,31 @@
+﻿Team Name,W,L,W/L%,GB,PS/G,PA/G,SRS,conference,Team_Abb
+Toronto Raptors* (1) ,59,23,0.72,—,111.7,103.9,7.29,East,TOR
+Boston Celtics* (2) ,55,27,0.671,4,104,100.4,3.23,East,BOS
+Philadelphia 76ers* (3) ,52,30,0.634,7,109.8,105.3,4.3,East,PHI
+Cleveland Cavaliers* (4) ,50,32,0.61,9,110.9,109.9,0.59,East,CLE
+Indiana Pacers* (5) ,48,34,0.585,11,105.6,104.2,1.18,East,IND
+Miami Heat* (6) ,44,38,0.537,15,103.4,102.9,0.15,East,MIA
+Milwaukee Bucks* (7) ,44,38,0.537,15,106.5,106.8,-0.45,East,MIL
+Washington Wizards* (8) ,43,39,0.524,16,106.6,106,0.53,East,WAS
+Detroit Pistons (9) ,39,43,0.476,20,103.8,103.9,-0.26,East,DET
+Charlotte Hornets (10) ,36,46,0.439,23,108.2,108,0.07,East,CHA
+New York Knicks (11) ,29,53,0.354,30,104.5,108,-3.53,East,NYK
+Brooklyn Nets (12) ,28,54,0.341,31,106.6,110.3,-3.67,East,BKN
+Chicago Bulls (13) ,27,55,0.329,32,102.9,110,-6.84,East,CHI
+Orlando Magic (14) ,25,57,0.305,34,103.4,108.2,-4.92,East,ORL
+Atlanta Hawks (15) ,24,58,0.293,35,103.4,108.8,-5.3,East,ATL
+Houston Rockets* (1) ,65,17,0.793,—,112.4,103.9,8.21,West,HOU
+Golden State Warriors* (2) ,58,24,0.707,7,113.5,107.5,5.79,West,GSW
+Portland Trail Blazers* (3) ,49,33,0.598,16,105.6,103,2.6,West,POR
+Oklahoma City Thunder* (4) ,48,34,0.585,17,107.9,104.4,3.42,West,OKC
+Utah Jazz* (5) ,48,34,0.585,17,104.1,99.8,4.47,West,UTA
+New Orleans Pelicans* (6) ,48,34,0.585,17,111.7,110.4,1.48,West,NOP
+San Antonio Spurs* (7) ,47,35,0.573,18,102.7,99.8,2.89,West,SAS
+Minnesota Timberwolves* (8) ,47,35,0.573,18,109.5,107.3,2.35,West,MIN
+Denver Nuggets (9) ,46,36,0.561,19,110,108.5,1.57,West,DEN
+Los Angeles Clippers (10) ,42,40,0.512,23,109,109,0.15,West,LAC
+Los Angeles Lakers (11) ,35,47,0.427,30,108.1,109.6,-1.44,West,LAL
+Sacramento Kings (12) ,27,55,0.329,38,98.8,105.8,-6.6,West,SAC
+Dallas Mavericks (13) ,24,58,0.293,41,102.3,105.4,-2.7,West,DAL
+Memphis Grizzlies (14) ,22,60,0.268,43,99.3,105.5,-5.81,West,MEM
+Phoenix Suns (15) ,21,61,0.256,44,103.9,113.3,-8.8,West,PHX
