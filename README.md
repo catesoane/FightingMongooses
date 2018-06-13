@@ -1,23 +1,22 @@
 # FightingMongooses
 
 Title: NBA Stat Analysis
-Team Members:
-•	Cate Soane
-•	Joe Spiwak
-•	Sandra Langston
-•	Tarek Mohamed
-Project Description:
-•	Exploring NBA 2017-2018 team stats to determine what gives top NBA organizations an edge.
-Questions/Outline:
-1.	(CATE): Is there a correlation between average years of combined team experience and regular season team wins? (Breakdown between roster, rotation and starters)
-2.	 (JOE): Is there a correlation between team average Player Efficiency Rating and regular season team wins? 
-3.	(JOE)Is there a correlation between PER and salary?
-4.	(SANDRA): Is there a correlation between total team salary and regular season wins?
-5.	(TAREK): Is there a correlation between a teams average TS% and regular season wins?
 
+Team Members:
+-	Cate Soane
+-	Joe Spiwak
+-	Sandra Langston
+-	Tarek Mohamed
+
+Project Description:
+-	Exploring NBA 2017-2018 team data to determine what gives top NBA organizations an edge.
+
+Questions:
+-	Do teams with more experienced players win more?
+-	Is Real Plus-Minus (RPM) a good predictive stat for NBA organizations?
+-	Is Player Efficiency Rating (PER) a good predictive stat for NBA organizations?
+-	Is there a particular box score stat that correlates with wins?
+-	Do organizations with more money/higher paid players win more?
 
 Data:
-team_win_data.csv 
-NBA_season1718_salary.csv 
-team_salary_experience.csv 
-player_PER.csv
+-	Compiled data from ESPN and other NBA affiliated websites
